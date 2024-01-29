@@ -1,4 +1,5 @@
 //22-1-24
+//scope
 let x = 90;
 const y = 10;
 var z = 80;

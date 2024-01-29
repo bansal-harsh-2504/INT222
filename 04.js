@@ -1,16 +1,5 @@
 //24-1-24
 
-// const express = require("express");
-// const app = express();
-
-// app.listen(8080, ()=>{
-//     console.log("listening to port 8080");
-// });
-
-// app.use("/", (req, res)=>{
-//     res.send("Working");
-// });
-
 // var x = 19336765635465767987665432;
 // console.log(x); 
 // console.log(typeof(x)); //number
