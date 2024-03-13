@@ -64,3 +64,8 @@ myEmitter.addListener('anEvent', function(msg){
 
 myEmitter.emit('anEvent', 'Event emitted');
 */
+
+
+//readline
+//nodejs
+//forEach
